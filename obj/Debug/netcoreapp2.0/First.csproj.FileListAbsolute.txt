@@ -1,0 +1,10 @@
+C:\Users\serve\Desktop\NetCoreProjects\First\bin\Debug\netcoreapp2.0\First.deps.json
+C:\Users\serve\Desktop\NetCoreProjects\First\bin\Debug\netcoreapp2.0\First.runtimeconfig.json
+C:\Users\serve\Desktop\NetCoreProjects\First\bin\Debug\netcoreapp2.0\First.runtimeconfig.dev.json
+C:\Users\serve\Desktop\NetCoreProjects\First\bin\Debug\netcoreapp2.0\First.dll
+C:\Users\serve\Desktop\NetCoreProjects\First\bin\Debug\netcoreapp2.0\First.pdb
+C:\Users\serve\Desktop\NetCoreProjects\First\obj\Debug\netcoreapp2.0\First.csproj.CoreCompileInputs.cache
+C:\Users\serve\Desktop\NetCoreProjects\First\obj\Debug\netcoreapp2.0\First.AssemblyInfoInputs.cache
+C:\Users\serve\Desktop\NetCoreProjects\First\obj\Debug\netcoreapp2.0\First.AssemblyInfo.cs
+C:\Users\serve\Desktop\NetCoreProjects\First\obj\Debug\netcoreapp2.0\First.dll
+C:\Users\serve\Desktop\NetCoreProjects\First\obj\Debug\netcoreapp2.0\First.pdb
